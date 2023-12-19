@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\bin\Debug\net8.0\ESTACIONAMENTO.exe
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\bin\Debug\net8.0\ESTACIONAMENTO.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\bin\Debug\net8.0\ESTACIONAMENTO.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\bin\Debug\net8.0\ESTACIONAMENTO.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\bin\Debug\net8.0\ESTACIONAMENTO.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\refint\ESTACIONAMENTO.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ESTACIONAMENTO.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ProjetoEstacionamento\obj\Debug\net8.0\ref\ESTACIONAMENTO.dll
