@@ -27,7 +27,7 @@ namespace ProjetoEstacionamento.Models
             Console.WriteLine("Digite a placa do veículo para remover:");
             string placa = Console.ReadLine();
 
-            if (veiculos.Any(x => veiculo.ToUpper() == placa.ToUpper()))
+            if (veiculos.Any(veiculo => veiculo.ToUpper() == placa.ToUpper()))
             {
                 Console.WriteLine("Digite a quantidade de horas que o veículo permaneceu estacionado:");
                 int horas = int.Parse(Console.ReadLine());
